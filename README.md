@@ -9,5 +9,6 @@ The CHIP-8 system is a simple, virtual computer from the 1970s designed to help 
 
 In this project, an emulator was created using the C++ programming language and the GLUT library to enable playing games like Pong and Tetris.
 
+![image](https://github.com/user-attachments/assets/1e290f72-0332-4e4f-9f2e-c12af0625d76)
 
 
